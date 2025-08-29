@@ -1,6 +1,6 @@
 package Lecture1;
 
-public class odd_even {
+public class Odd_even {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -12,10 +12,7 @@ public class odd_even {
 			System.out.println("even");
 		}
 		else {
-			System.out.println("odd");
-			
+			System.out.println("odd");	
 		}
-
 	}
-
 }
