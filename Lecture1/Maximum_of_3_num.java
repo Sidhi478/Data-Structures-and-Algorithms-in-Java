@@ -1,6 +1,6 @@
 package Lecture1;
 
-public class maximum_of_3_num {
+public class Maximum_of_3_num {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -16,7 +16,5 @@ public class maximum_of_3_num {
 		else {
 			System.out.println(c);
 		}
-
 	}
-
 }
