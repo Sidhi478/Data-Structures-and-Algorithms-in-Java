@@ -1,14 +1,13 @@
 package lecture_10;
 
-public class maximumsubarray {
+public class MaximumSubarray {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int [] arr= {-2,1,-3,4,-1,2,1,-5,4};
 		System.out.println(maximumarray(arr));
-		
-
 	}
+	
 	public static int maximumarray(int[] arr) {
 		 int ans=Integer.MIN_VALUE;
 		for(int i=0;i<arr.length;i++) {
@@ -23,5 +22,4 @@ public class maximumsubarray {
 		}
 		return ans;
 	}
-
 }
