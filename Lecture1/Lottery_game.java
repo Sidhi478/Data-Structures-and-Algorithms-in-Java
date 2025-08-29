@@ -1,6 +1,6 @@
 package Lecture1;
 
-public class lottery_game {
+public class Lottery_game {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -27,3 +27,4 @@ public class lottery_game {
 	}
 
 }
+
