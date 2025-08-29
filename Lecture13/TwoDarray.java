@@ -1,7 +1,6 @@
 package lecture_13;
 
-public class twoDarray {
-
+public class tTwoDarray {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//how to make 2-D array//
@@ -13,7 +12,5 @@ public class twoDarray {
 		int row=arr.length;// 3
 		//column length
 		int column=arr[0].length;// 4
-
 	}
-
 }
