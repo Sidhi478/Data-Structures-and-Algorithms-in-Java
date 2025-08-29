@@ -1,6 +1,6 @@
 package lecture_10;
 
-public class bubble_sort {
+public class Bubble_Sort {
 
 	public static void main(String[] args) {
 
@@ -11,7 +11,7 @@ public class bubble_sort {
 			System.out.print(arr[i]+" ");
 		}
 		//System.out.println(min_form_ith_index(arr,2));
-		}
+	}
 	
 	public static void sort(int[]arr) {
 		for(int i=0;i<arr.length;i++) {
@@ -21,6 +21,7 @@ public class bubble_sort {
 				arr[mini]=temp;
 		}
 	}
+	
 	public static int min_form_ith_index(int []arr,int idx) {
 		int mini=idx;
 		for(int i=idx+1; i<arr.length;i++) {
