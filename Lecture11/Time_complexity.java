@@ -1,6 +1,6 @@
 package lecture_11;
 
-public class time_complexity {
+public class Time_complexity {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -12,8 +12,4 @@ public class time_complexity {
 		System.out.println(end-start);
 		
 	}
-	
-	
-	
-
 }
