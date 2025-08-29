@@ -1,6 +1,6 @@
 package lecture_13;
 
-public class searchintwoDarray {
+public class Searchin2Darray {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -11,22 +11,19 @@ public class searchintwoDarray {
 	}
 	public static boolean search (int[][]arr,int item) {
 		int row=0;
-		int cloumn=arr[0].length-1;
-		while(row<arr.length && cloumn>=0) {
+		int column=arr[0].length-1;
+		while(row<arr.length && column>=0) {
 			if(arr[row][cloumn]==item) {
 				return true;
 			}
 			else if(arr[row][cloumn]>item) {
 				cloumn--;
-				
 			}
 			else {
 				row++;
 			}
 		}
 		return false;
-		
-		
 	}
-
 }
+
