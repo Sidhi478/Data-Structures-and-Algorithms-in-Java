@@ -1,6 +1,6 @@
 package Lecture1;
 
-public class max_of_two_num {
+public class Max_of_two_num {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -16,3 +16,4 @@ public class max_of_two_num {
 	}
 
 }
+
