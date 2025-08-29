@@ -1,6 +1,6 @@
 package Lecture1;
 
-public class arithmatic_operator {
+public class Arithmatic_operator {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -10,7 +10,6 @@ public class arithmatic_operator {
 		System.out.println(c);
 		c = a-b;
 		System.out.println(c);
-
 	}
-
 }
+
