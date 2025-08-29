@@ -1,6 +1,6 @@
 package Lecture1;
 
-public class else_if {
+public class Else_if {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -24,3 +24,4 @@ public class else_if {
 	}
 
 }
+
