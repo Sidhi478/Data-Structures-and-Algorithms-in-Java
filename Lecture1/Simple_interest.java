@@ -1,6 +1,6 @@
 package Lecture1;
 
-public class simple_interest {
+public class Simple_interest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -9,7 +9,5 @@ public class simple_interest {
 		int T=2;
 		int SI=(p*R*T)/ 100;
 		System.out.println(SI);
-
 	}
-
 }
