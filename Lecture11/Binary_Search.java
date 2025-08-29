@@ -1,6 +1,6 @@
 package lecture_11;
 
-public class binary_search {
+public class Binary_Search {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -26,9 +26,6 @@ public class binary_search {
 			
 		}
 		return -1;
-		
-		
-		
 	}
-
 }
+
